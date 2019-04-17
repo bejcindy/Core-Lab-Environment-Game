@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{52C35C9E-6765-7515-CFD0-E6AB11BC3414}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs">
+    <Files>
+      <File FileName="Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="Unity.Editor" />
+</Properties>

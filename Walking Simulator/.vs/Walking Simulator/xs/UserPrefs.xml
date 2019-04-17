@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{96C62DCB-71CC-E57D-6FA9-E617965649E3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Buttons/StartButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LookAtMouse.cs" Line="29" Column="103" />
+      <File FileName="Assets/Scripts/SecretGraveAppear.cs" Line="31" Column="14" />
+      <File FileName="Assets/Scripts/ExitScene.cs" Line="13" Column="21" />
+      <File FileName="Assets/Scripts/White.cs" Line="38" Column="43" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="22" Column="23" />
+      <File FileName="Assets/Scripts/Buttons/ResumeButton.cs" Line="10" Column="9" />
+      <File FileName="Assets/Scripts/Buttons/QuitButton.cs" Line="10" Column="11" />
+      <File FileName="Assets/Scripts/Sun.cs" Line="26" Column="45" />
+      <File FileName="Assets/Scripts/DataHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Buttons/StartButton.cs" Line="7" Column="23" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="25" Column="13" />
+      <File FileName="Assets/Scripts/EntrepreneurTrigger.cs" Line="23" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
